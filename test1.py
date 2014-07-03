@@ -32,6 +32,8 @@ new_file = file('json.txt', 'a')
 new_file.write(zeichenkette + "\n")
 new_file.close()
 
+
+print "hallo github"
 # Daten deserialisieren
 # erhalten = json.loads(zeichenkette)
 
